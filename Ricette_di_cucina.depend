@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1644571895 source:c:\users\andre\documents\programmi_c\ricette_di_cucina\main.c
+	"funzioni.h"
+
+1644571734 c:\users\andre\documents\programmi_c\ricette_di_cucina\funzioni.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1644571773 source:c:\users\andre\documents\programmi_c\ricette_di_cucina\ricetta.c
+	"funzioni.h"
+
+1644571633 source:c:\users\andre\documents\programmi_c\ricette_di_cucina\funzioni_secondarie.c
+	"funzioni.h"
+
+1644575233 source:c:\users\andre\desktop\progetti\ricette_di_cucina\funzioni_secondarie.c
+	"funzioni.h"
+
+1644575334 c:\users\andre\desktop\progetti\ricette_di_cucina\funzioni.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1644575373 source:c:\users\andre\desktop\progetti\ricette_di_cucina\ricetta.c
+	"funzioni.h"
+
+1658311421 source:c:\users\andre\desktop\progetti\ricette_di_cucina\main.c
+	"funzioni.h"
+
